@@ -25,7 +25,7 @@ sh the/file/path/to/set_charge.sh
 ### By creating a shortcut
 - **Step 1:** Create a .desktop file. This will be your shortcut.
 ```
-nano /your/file/path/will/go/here/<any name you like>.desktop
+nano /where/you/want/your/shortcut/to/go/<any name you like>.desktop
 ```
 - **Step 2:** Copy everything down below and paste into your .desktop file. Remember to change 'Name' and 'Exec'.
 ```
