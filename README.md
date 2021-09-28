@@ -3,6 +3,7 @@
 
 ## Overview
 This repository will help limit the battery charging threshold to extend its life. Highly suitable for people who like to plug in their laptops all the time.\
+\
 The ideal charge limit is anything between 50-60. You can also set it to any value you like. Alternatively, you can set it to 100 to revert the changes.
 
 \
